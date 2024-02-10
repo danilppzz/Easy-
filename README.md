@@ -24,5 +24,7 @@ Here is the link to download [fabric](https://fabricmc.net/)
 </section>
 <section id="ep_anti_shield_hit">
   <h1>ep_anti_shield_hit</h1>
-  
+  This is a minecraft 1.16^ mechanic that consist to hit a player with the shild.
+
+  to use this you need to have an axe and a sword. the key bind hit the enemy shield with the exe and the instantly it hit with the sword. this allows you to hit throw the shield.
 </section>
